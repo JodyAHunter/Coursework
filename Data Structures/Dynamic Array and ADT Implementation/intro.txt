@@ -1,0 +1,1 @@
+This assignment is comprised of 2 parts. In the first part, you will complete an implementation of a Dynamic Array. Then in the second part, you will implement a Bag ADT with your Dynamic Array from Part 1.

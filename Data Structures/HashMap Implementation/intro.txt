@@ -1,0 +1,3 @@
+In this assignment you will complete the implementation of a HashMap in two forms - using Separate Chaining, and again via Open Addressing with Quadratic Probing.
+
+Complete the HashMap implementation by using the skeleton code provided below. For this assignment you will use a dynamic array and singly linked list provided for you in the a6_include.py file below to implement both of the HashMap.

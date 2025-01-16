@@ -1,0 +1,1 @@
+In this assignment, you will write a small library that parses files and directory structures to list files and directory contents recursively in a tree format, where each subdirectory is indented from the last. You will implement basic sorting and print the file permissions, username, group, and file size.

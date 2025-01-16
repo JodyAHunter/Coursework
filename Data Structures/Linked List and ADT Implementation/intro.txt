@@ -1,0 +1,3 @@
+This assignment comprises of 5 parts. In the first part, you will complete the implementation of a Singly Linked List data structure. In part 2, you will implement the Stack ADT using your Dynamic Array from Assignment 2. For part 3, you will implement the Queue ADT using your Static Array from Assignment 1. For parts 4 and 5, you will again implement the Stack and Queue ADTs, but by using the Singly Linked Nodes.
+
+You will implement a Linked List data structure, and the ADTs (Stack and Queue) as specified in the section above. You will use the provided skeleton code files (below) for your implementations.

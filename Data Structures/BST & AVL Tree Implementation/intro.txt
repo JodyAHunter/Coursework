@@ -1,0 +1,3 @@
+This assignment has 2 parts. In part 1 you will be implementing a BST (Binary Search Tree). In part 2, you will be implementing an AVL tree. Good news, everyone! Because the AVL tree is a subclass of BST, you will only have to implement two primary methods for your AVL tree, as well as any helper methods to facilitate balancing.
+
+Complete the BST and AVL tree implementations by using the skeleton code provided below. Remember that the AVL tree improves on the binary search tree by always guaranteeing the tree is height balanced, which allows for more efficient operations.

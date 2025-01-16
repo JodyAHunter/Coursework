@@ -1,0 +1,10 @@
+Introduction
+In this assignment, you will write a simple base64 encoding utility to familiarize yourself with the basics of C programming. You will be using, exclusively, a small subset of the C standard library to accomplish this task. You will practice:
+
+Parsing command-line arguments
+
+Using the standard io library features
+
+Handling errors
+
+Manipulating data and working with arrays
